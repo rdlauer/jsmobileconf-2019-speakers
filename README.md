@@ -2,7 +2,7 @@
 
 As we gather up slide decks from all of our fantastic [speakers](https://jsmobileconf.com/#lgx-speakers) from [jsMobileConf](https://jsmobileconf.com/), you'll find them posted here:
 
-- (Keynote) Max Firtman - "How to Survive 20 Years Developing Apps" [slides]
+- (Keynote) Max Firtman - "How to Survive 20 Years Developing Apps" [[slides](slides/JSMobileConf-Keynote.pdf)]
 - (Keynote) David Neal - "You. Are. Awesome." [[slides](https://speakerdeck.com/reverentgeek/you-are-awesome-jsmobileconf-2019-keynote)]
 - Ishan Anand - "How to Build the Fastest PWA Possible" [slides]
 - Nathanael Anderson - "Tale of Two Titans: Flutter and NativeScript" [slides]
