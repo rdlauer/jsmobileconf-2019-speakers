@@ -16,7 +16,7 @@ As we gather up slide decks from all of our fantastic [speakers](https://jsmobil
 - Alyssa Nicoll - "Dark Patterns in UI: What NOT To Do To Your Users" [[slides](slides/dark_patterns.pdf)]
 - Tommy Parnell - "Webpack Performance Trickery" [[slides](https://aka.terrible.dev/web/jsmobileconf19)]
 - Diana Rodriguez - "Success in Tech: Fostering DevOps Culture" [[slides](https://slides.com/superdiana/devopsy#/)]
-- Dimitar Todorov - "JavaScript Mobile Testing and CI in the Cloud" [slides]
+- Dimitar Todorov - "JavaScript Mobile Testing and CI in the Cloud" [[slides](slides/JSMobileCI_PDF.pdf)]
 - Vasil Trifonov - "NativeScript Playground: Behind the Scenes" [[slides](https://docs.google.com/presentation/d/1uDNmoyosNNRVpb9nrgf1sKEl2VIs1-oNg7gGRVMu6WE/edit#slide=id.g63d4917ccd_0_22)]
 - TJ VanToll - "10 Awesome Things You Can Build with NativeScript" [[slides](https://www.tjvantoll.com/speaking/slides/Top-10/Boston/Top-10.pptx)]
 - Eddy Verbruggen - "What AR You Waiting For?" [slides]
