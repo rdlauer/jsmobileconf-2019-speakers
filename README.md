@@ -19,7 +19,7 @@ As we gather up slide decks from all of our fantastic [speakers](https://jsmobil
 - Dimitar Todorov - "JavaScript Mobile Testing and CI in the Cloud" [[slides](slides/JSMobileCI_PDF.pdf)]
 - Vasil Trifonov - "NativeScript Playground: Behind the Scenes" [[slides](https://docs.google.com/presentation/d/1uDNmoyosNNRVpb9nrgf1sKEl2VIs1-oNg7gGRVMu6WE/edit#slide=id.g63d4917ccd_0_22)]
 - TJ VanToll - "10 Awesome Things You Can Build with NativeScript" [[slides](https://www.tjvantoll.com/speaking/slides/Top-10/Boston/Top-10.pptx)]
-- Eddy Verbruggen - "What AR You Waiting For?" [slides]
+- Eddy Verbruggen - "What AR You Waiting For?" [[slides](https://www.dropbox.com/s/gr361l0ausmx467/What%20AR%20you%20waiting%20for%20-%20jsMobileConf%202019.pdf?dl=0)]
 - Stanimira Vlaeva - "Embedding V8 in the Real World" [[slides](https://docs.google.com/presentation/d/1BfV45S91KTHwqPx7MKkRDcCOsEQzR-vzDXbajGhD2no/edit#slide=id.g57c1f1de39_0_1216)]
 - Nathan Walker - "Building Something Sweet! Delicious Treats from Large Scale Mobile Development" [slides]
 - Jeff Whelpley - "Mobile UX from AMP to Native" [[slides](https://docs.google.com/presentation/d/1K22dauGhol2bf3to2qPkiRHZxl0RibwF9k1NPxHvgjM/edit?usp=sharing)]
