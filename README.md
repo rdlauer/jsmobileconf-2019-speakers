@@ -21,7 +21,7 @@ As we gather up slide decks from all of our fantastic [speakers](https://jsmobil
 - TJ VanToll - "10 Awesome Things You Can Build with NativeScript" [[slides](https://www.tjvantoll.com/speaking/slides/Top-10/Boston/Top-10.pptx)]
 - Eddy Verbruggen - "What AR You Waiting For?" [[slides](https://www.dropbox.com/s/gr361l0ausmx467/What%20AR%20you%20waiting%20for%20-%20jsMobileConf%202019.pdf?dl=0)]
 - Stanimira Vlaeva - "Embedding V8 in the Real World" [[slides](https://docs.google.com/presentation/d/1BfV45S91KTHwqPx7MKkRDcCOsEQzR-vzDXbajGhD2no/edit#slide=id.g57c1f1de39_0_1216)]
-- Nathan Walker - "Building Something Sweet! Delicious Treats from Large Scale Mobile Development" [slides]
+- Nathan Walker - "Building Something Sweet! Delicious Treats from Large Scale Mobile Development" [[slides](https://drive.google.com/open?id=1SAR8XkbGi8h_zaPoGXb3J8qWT6lHqaPP)]
 - Jeff Whelpley - "Mobile UX from AMP to Native" [[slides](https://docs.google.com/presentation/d/1K22dauGhol2bf3to2qPkiRHZxl0RibwF9k1NPxHvgjM/edit?usp=sharing)]
 - Sebastian Witalec - "Alexa, Top Me Up!" [[slides](slides/NativeChat-Alexa.key)]
 - Aysegul Yonet - "How to Build Better Tutorials with Mixed Reality" [[slides](https://slides.com/aysegulyonet/jsmobile2019#/)]
