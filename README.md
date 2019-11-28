@@ -4,7 +4,7 @@ As we gather up slide decks from all of our fantastic [speakers](https://jsmobil
 
 - (Keynote) Max Firtman - "How to Survive 20 Years Developing Apps" [[slides](slides/JSMobileConf-Keynote.pdf)]
 - (Keynote) David Neal - "You. Are. Awesome." [[slides](https://speakerdeck.com/reverentgeek/you-are-awesome-jsmobileconf-2019-keynote)]
-- Ishan Anand - "How to Build the Fastest PWA Possible" [slides]
+- Ishan Anand - "How to Build the Fastest PWA Possible" [[video](https://www.youtube.com/watch?v=N8ris3REu5I)]
 - Nathanael Anderson - "Tale of Two Titans: Flutter and NativeScript" [slides]
 - Zoe Koulouris Augustinos & Peter B. Smith - "Revealing 5 Mysteries of Cross-Platform Apps" [[slides](slides/5-Mysteries.pdf)]
 - Carl Bergenhem - "Why Every Web App Should Be a PWA" [[slides](slides/why-every-web-app-should-be-a-pwa-jsmobileconf.pptx)]
